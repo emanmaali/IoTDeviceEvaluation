@@ -29,7 +29,7 @@ You can access the full paper on the [NDSS website](https://www.ndss-symposium.o
 ## Project Structure
 ```
 project_root/
-|-- data/                # Datasets used for training and evaluation
+|-- dataset/                # Datasets used for training and evaluation
 |-- models/              # Pre-trained models and scripts for training
 |-- README.md            # Project documentation
 |-- requirements.txt     # Python dependencies
