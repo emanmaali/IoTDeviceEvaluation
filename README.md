@@ -42,7 +42,7 @@ project_root/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/emanmaali/IoTEvaluation.git
+   git clone https://github.com/emanmaali/IoTDeviceEvaluation.git
    ```
 
 2. Install dependencies:
