@@ -31,8 +31,6 @@ You can access the full paper on the [NDSS website](https://www.ndss-symposium.o
 project_root/
 |-- data/                # Datasets used for training and evaluation
 |-- models/              # Pre-trained models and scripts for training
-|-- experiments/         # Scripts for running experiments
-|-- results/             # Output results and visualisations
 |-- README.md            # Project documentation
 |-- requirements.txt     # Python dependencies
 ```
@@ -55,4 +53,3 @@ project_root/
    python experiments/run_experiment.py --config config.yaml
    ```
 
-4. View results in the `results/` directory.
