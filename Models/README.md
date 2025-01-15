@@ -9,28 +9,15 @@ The models in this directory were designed to evaluate the practicality and effe
 ## Code Folds
 
 ### 1. **Original Code**
-The following scripts were directly used in the original implementation of the referenced paper:
-- 
-- 
-- 
+The following are the original implementations from prior research papers. They serve as the baseline for evaluation in this project:
+- **[Paper Title 1](https://github.com/author1/original-project-1)**: Brief description of this code’s contribution to IoT device identification.
+- **[Paper Title 2](https://github.com/author2/original-project-2)**: Brief description of this code’s contribution to IoT device identification.
 
 ### 2. **Docker-Based Code**
-These scripts are specifically adapted to run within a Docker environment for ease of deployment and reproducibility:
-- 
-- 
-- 
+These scripts are adapted to run within a Docker environment to ensure ease of deployment and reproducibility:
+- **[Paper Title 1](https://github.com/author1/original-project-1)**: Dockerised version of the original implementation.
+- **[Paper Title 2](https://github.com/author2/original-project-2)**: Dockerised version of the original implementation.
 
 ### 3. **Rewritten Code**
-To ensure compatibility with modern frameworks and tools, we rewrote the code based on the original paper. This includes optimised implementations and updates:
-- 
-- 
-- 
-
-## Usage
-
-To execute the models, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/emanmaali/IoTDeviceEvaluation.git
-
+The following implementations are rewritten versions of the original code. They incorporate optimisations for modern frameworks and address any compatibility issues:
+- **[Paper Title 1](https://github.com/author1/original-project-1)**: Rewritten and o
