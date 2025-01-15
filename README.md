@@ -4,6 +4,4 @@
 
 ## Project Structure
 
-## Environments install
-
 ## Usage
