@@ -9,7 +9,7 @@ This project is based on the research paper:
 **Citation:**
 ```bibtex
 @inproceedings{Maali2025,
-  author    = {Your Name and Co-Author's Name},
+  author    = {Eman Maali, Omar Alrawi,and Julie McCann},
   title     = {Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications},
   booktitle = {Proceedings of the Network and Distributed System Security Symposium (NDSS)},
   year      = {2025},
@@ -42,7 +42,7 @@ project_root/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
+   git clone https://github.com/emanmaali/IoTEvaluation.git
    ```
 
 2. Install dependencies:
