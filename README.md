@@ -47,9 +47,3 @@ project_root/
    ```bash
    pip install -r requirements.txt
    ```
-
-3. Run experiments:
-   ```bash
-   python experiments/run_experiment.py --config config.yaml
-   ```
-
