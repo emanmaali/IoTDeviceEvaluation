@@ -28,7 +28,7 @@ You can access the full paper on the [NDSS website](https://www.ndss-symposium.o
 
 ## Project Structure
 ```
-project_root/
+IoTDeviceEvaluation/
 |-- Dataset/                        # Datasets used for training and evaluation
 |-- Models/                         # Pre-trained models and scripts for training
 |-- FeatureExtraction/              # Scripts for features extraction
