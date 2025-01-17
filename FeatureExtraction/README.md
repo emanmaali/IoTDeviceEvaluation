@@ -5,7 +5,7 @@ This directory contains scripts designed for automating feature extraction from 
 
 
 ## Features
-- **PCAP to YAF Conversion**: Extracts flow-level statistics from `PCAP` files using YAF.
+- **PCAP to YAF Conversion**: Extracts flow-level statistics from `PCAP` files using `YAF`.
 - **YAF to JSON Conversion**: Converts YAF output to `JSON` format using Super Mediator.
 - **PCAP Field Extraction with `tshark`**: Extracts detailed packet-level fields such as IP and TCP/UDP headers.
 
@@ -41,29 +41,29 @@ scripts/
 ## Usage
 
 ### 1. Setup
-Ensure the necessary tools (YAF, super_mediator, tshark) are installed and accessible in your system's PATH. Update any required paths in the scripts to point to your data directories.
+Ensure the necessary tools (`YAF`, `super_mediator`, `tshark`) are installed and accessible in your system's PATH. Update any required paths in the scripts to point to your data directories.
 
 ### 2. Running the Scripts
 
 #### Convert PCAP to YAF
-Run the following command to process PCAP files and generate YAF output:
+Run the following command to process `PCAP` files and generate `YAF` output:
 ```bash
 python extract_features.py --input-dir <pcap_directory> --output-dir <yaf_directory>
 ```
 
 #### Convert YAF to JSON
-Run the following command to process YAF files and convert them to JSON format:
+Run the following command to process `YAF` files and convert them to `JSON` format:
 ```bash
 python extract_features.py --yaf-dir <yaf_directory> --json-dir <json_directory>
 ```
 
 #### Extract Packet Fields with tshark
 
-Run the following command to extract fields like IP and TCP/UDP headers from PCAP files:
+Run the following command to extract fields like IP and TCP/UDP headers from `PCAP` files:
 ```bash
 python extract_tshark_features.py pcap_list.txt
 ```
-pcap_list.txt should contain the paths of PCAP files, one per line.
+pcap_list.txt should contain the paths of `PCAP` files, one per line.
 
 ### 3. Batch Processing
 The scripts are designed to automatically process all files within the specified directories. Ensure input files are organised accordingly.
@@ -82,7 +82,7 @@ For operations requiring elevated permissions (e.g., `sudo`), update the `sudo_p
 
 ## Example Output
 
-- **YAF File**: Contains flow-level statistics extracted from PCAP files.
+- **YAF File**: Contains flow-level statistics extracted from `PCAP` files.
 - **JSON File**: Provides structured data suitable for further analysis.
 - **CSV File**: Stores extracted packet fields for tasks like feature engineering and model training.
 
