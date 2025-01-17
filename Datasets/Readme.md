@@ -10,7 +10,7 @@ Dataset/
 |-- MetadataUSA               # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the USA. 
 |-- MetadataUK                # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the UK.
 |-- Documentation             # Details about the collection methodology, ethical considerations, and data format.
-|-- README.md                 # Directory documentation
+|-- README.md                 # Documentation for this directory
 ```
 
 ## Overview
