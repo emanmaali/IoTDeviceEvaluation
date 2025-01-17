@@ -1,6 +1,6 @@
 
 
-# Scripts for Feature Extraction
+# Feature Extraction
 This directory contains scripts designed for automating feature extraction from network traffic data. The scripts support processing of `PCAP` files, extracting flow-level statistics using `YAF`, `Super Mediator`, and `tshark`, and converting the results into structured formats for analysis.
 
 
