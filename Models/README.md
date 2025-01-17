@@ -19,7 +19,7 @@ Models/
 ├── Yang19.py                 # Yang19 paper code. 
 ├── requirements.txt          # Required Python libraries
 ├── license                   # Licenseing 
-├── README.md                 # Documentation for the directory
+├── README.md                 # Documentation for this directory
 ```
 
 ## Code Folds
