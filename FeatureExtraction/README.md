@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Directory Structure
 
 ```plaintext
-scripts/
+FeatureExtraction/
 ├── YAF-features.py           # Script for feature extraction (PCAP to YAF/JSON). These features use in Okui22 paper. 
 ├── Yang-features.py          # Script for extracting packet-level fields with tshark. These features used in Yang19 paper
 ├── requirements.txt          # Required Python libraries
