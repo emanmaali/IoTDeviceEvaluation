@@ -102,7 +102,7 @@ def extract_and_save(pcap_files):
         # Extract the filename without extension
         filename = os.path.splitext(os.path.basename(pcap_file))[0]
         # Construct the new file path for the CSV file
-        csv_file = os.path.join('/data/eman/observation/Extracted-Features/YANG-Features/', filename + ".csv")
+        csv_file = os.path.join('yourpath', filename + ".csv")
         # Save extracted fields to CSV file
         save_to_csv(feature_extracted, csv_file)
 
