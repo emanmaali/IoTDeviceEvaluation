@@ -18,7 +18,7 @@ dataset = pd.read_pickle(data_path)
 dataset['deviceName'] = dataset['deviceName'].astype('category')
 dataset['device_cat'] = dataset['deviceName'].cat.codes
 
-# Select Meid20 features and target variable
+# Select Pinh19 features and target variable
 features = ['mean_byte_out', 'std_byte_out', 'total_byte_out']
 target = 'device_cat'
 
