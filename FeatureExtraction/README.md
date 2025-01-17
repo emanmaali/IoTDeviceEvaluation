@@ -1,12 +1,12 @@
 
 
 # Scripts for Feature Extraction
-This directory contains scripts designed for automating feature extraction from network traffic data. The scripts support processing of PCAP files, extracting flow-level statistics using YAF, Super Mediator, and `tshark`, and converting the results into structured formats for analysis.
+This directory contains scripts designed for automating feature extraction from network traffic data. The scripts support processing of `PCAP` files, extracting flow-level statistics using `YAF`, `Super Mediator`, and `tshark`, and converting the results into structured formats for analysis.
 
 
 ## Features
-- **PCAP to YAF Conversion**: Extracts flow-level statistics from PCAP files using YAF.
-- **YAF to JSON Conversion**: Converts YAF output to JSON format using Super Mediator.
+- **PCAP to YAF Conversion**: Extracts flow-level statistics from `PCAP` files using YAF.
+- **YAF to JSON Conversion**: Converts YAF output to `JSON` format using Super Mediator.
 - **PCAP Field Extraction with `tshark`**: Extracts detailed packet-level fields such as IP and TCP/UDP headers.
 
 
@@ -41,7 +41,7 @@ scripts/
 ## Usage
 
 ### 1. Setup
-Ensure the necessary tools (yaf, super_mediator, tshark) are installed and accessible in your system's PATH. Update any required paths in the scripts to point to your data directories.
+Ensure the necessary tools (YAF, super_mediator, tshark) are installed and accessible in your system's PATH. Update any required paths in the scripts to point to your data directories.
 
 ### 2. Running the Scripts
 
