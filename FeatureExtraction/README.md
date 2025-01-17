@@ -10,7 +10,7 @@ FeatureExtraction/
 ├── YAF-features.py           # Script for feature extraction (PCAP to YAF/JSON). These features use in Okui22 paper. 
 ├── Yang-features.py          # Script for extracting packet-level fields with tshark. These features used in Yang19 paper
 ├── requirements.txt          # Required Python libraries
-├── README.md                 # Documentation for the directory
+├── README.md                 # Documentation for this directory
 ```
 
 
