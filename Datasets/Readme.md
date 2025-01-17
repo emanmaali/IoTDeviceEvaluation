@@ -3,7 +3,7 @@
 
 This directory contains the dataset used for evaluating machine learning-based IoT device identification models for security applications.
 
-## Project Structure
+## Directory Structure
 ```
 Dataset/
 |-- Pcap/                           # Pcap Datasets used for training and evaluation
