@@ -7,7 +7,6 @@ This directory contains scripts designed for extracting features from PCAP files
 ## Features
 - **PCAP to YAF Conversion**: Extracts flow-level statistics from PCAP files using YAF.
 - **YAF to JSON Conversion**: Converts YAF output to JSON format using Super Mediator for better compatibility and processing.
-- **Automated Workflow**: Efficiently processes multiple files in batches, ensuring scalability.
 
 ## Requirements
 
