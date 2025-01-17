@@ -1,0 +1,17 @@
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.1.0
+tensorflow>=2.11.0
+lightgbm>=3.3.5
+scipy>=1.9.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# For cosine similarity
+scikit-learn>=1.1.0  # For basic cosine similarity calculations
+
+# For LSTM and CNN implementation in TensorFlow
+keras>=2.11.0
+
+# For ensuring GPU support (if needed)
+tensorflow-gpu>=2.11.0  # GPU version of TensorFlow
