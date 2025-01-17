@@ -9,7 +9,7 @@ The models in this directory were designed to evaluate the practicality and effe
 ## Code Folds
 
 ### 1. **Original Code**
-The following are the original implementations from prior research papers. They serve as the baseline for evaluation in this project:
+The following are the original implementations from prior research papers. They serve as the baseline for evaluation in this project. 
 - **[Ahmed22](https://github.com/dilawer11/iot-device-fingerprinting)**: [Analyzing the Feasibility and Generalizability of Fingerprinting Internet of Things Devices.](https://petsymposium.org/popets/2022/popets-2022-0057.php)
 
 ### 2. **Docker-Based Code**
@@ -18,7 +18,7 @@ These scripts are adapted to run within a Docker environment to ensure ease of d
 - **[Fan22](https://github.com/AliceAndBobCandy/AutoIoT.git)**: [AutoIoT: Automatically Updated IoT Device Identification With Semi-Supervised Learning.](https://ieeexplore.ieee.org/abstract/document/9795895)
 
 ### 3. **Rewritten Code**
-The following implementations are rewritten versions of the original code. They incorporate optimisations for modern frameworks and address any compatibility issues:
+The following implementations are rewritten versions of the original code. Note that you may need to adjust the code based on your testing case, the path to your training data, and ensure that features are used in the correct extracted format as outlined in the original paper.
 - **[Meid20](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Meid20.py)**: [A novel approach for detecting vulnerable IoT devices connected behind a home NAT.](https://www.sciencedirect.com/science/article/pii/S0167404820302418)
 - **[Okui22](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Okui22.py)**: [Identification of an IoT device model in the home domain using IPFIX records.](https://ieeexplore.ieee.org/abstract/document/9842469)
 - **[Siva18](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Siva18.py)**: [Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics.](https://ieeexplore.ieee.org/abstract/document/8440758)
