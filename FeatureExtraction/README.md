@@ -33,11 +33,6 @@ Ensure you have the following installed on your system:
   - `matplotlib`
   - `seaborn`
 
-Install Python dependencies using:
-```bash
-pip install -r requirements.txt
-```
-
 ## Usage
 
 ### 1. Setup
