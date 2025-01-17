@@ -6,6 +6,22 @@ This directory contains the implementation of machine learning models used for e
 
 The models in this directory were designed to evaluate the practicality and effectiveness of machine learning techniques in identifying IoT devices across different network and operational conditions. These implementations facilitate reproducibility and further exploration.
 
+## Directory Structure
+
+```plaintext
+Models/
+├── Meid20.py                 # Meid20 paper code.
+├── Okui22.py                 # Okui22 paper code.
+├── Ortiz19.py                # Ortiz19 paper code.
+├── Perd20.py                 # Perd20 paper code.
+├── Pinh19.py                 # Pinh19 paper code.
+├── Siva18.py                 # Siva18 paper code.
+├── Yang19.py                 # Yang19 paper code. 
+├── requirements.txt          # Required Python libraries
+├── license                   # Licenseing 
+├── README.md                 # Documentation for the directory
+```
+
 ## Code Folds
 
 ### 1. **Original Code**
