@@ -7,9 +7,9 @@ This directory contains the dataset used for evaluating machine learning-based I
 ```
 Dataset/
 |-- Pcap/                     # Pcap Datasets used for training and evaluation
-|-- MetadataUSA           # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the USA. 
-|-- MetadataUK           # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the UK.
-|-- Documentation         # Details about the collection methodology, ethical considerations, and data format.
+|-- MetadataUSA               # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the USA. 
+|-- MetadataUK                # Descriptions of the IoT devices, operational settings, and environmental conditions during data collection in the UK.
+|-- Documentation             # Details about the collection methodology, ethical considerations, and data format.
 |-- README.md                 # Directory documentation
 ```
 
