@@ -3,6 +3,16 @@
 # Feature Extraction
 This directory contains scripts designed for automating feature extraction from network traffic data. The scripts support processing of `PCAP` files, extracting flow-level statistics using `YAF`, `Super Mediator`, and `tshark`, and converting the results into structured formats for analysis.
 
+## Directory Structure
+
+```plaintext
+FeatureExtraction/
+├── YAF-features.py           # Script for feature extraction (PCAP to YAF/JSON). These features use in Okui22 paper. 
+├── Yang-features.py          # Script for extracting packet-level fields with tshark. These features used in Yang19 paper
+├── requirements.txt          # Required Python libraries
+├── README.md                 # Documentation for the directory
+```
+
 
 ## Features
 - **PCAP to YAF Conversion**: Extracts flow-level statistics from `PCAP` files using `YAF`.
@@ -26,16 +36,6 @@ Ensure you have the following installed on your system:
 Install Python dependencies using:
 ```bash
 pip install -r requirements.txt
-```
-
-## Directory Structure
-
-```plaintext
-FeatureExtraction/
-├── YAF-features.py           # Script for feature extraction (PCAP to YAF/JSON). These features use in Okui22 paper. 
-├── Yang-features.py          # Script for extracting packet-level fields with tshark. These features used in Yang19 paper
-├── requirements.txt          # Required Python libraries
-├── README.md                 # Documentation for the directory
 ```
 
 ## Usage
