@@ -20,12 +20,6 @@ This project is based on the research paper:
 }
 ```
 
-### Brief Description
-This research explores the practicality of machine learning models for identifying IoT devices in security-sensitive contexts. It evaluates the models' performance across attributes such as mode of operation, transferability, and observability, addressing challenges in real-world deployments. 
-
-You can access the full paper on the [NDSS website](https://www.ndss-symposium.org/ndss-paper/your-paper-title/).
-
-
 ## Project Structure
 ```
 IoTDeviceEvaluation/
@@ -35,6 +29,11 @@ IoTDeviceEvaluation/
 |-- README.md                       # Project documentation
 |-- requirements.txt                # Python dependencies
 ```
+
+### Brief Description
+This research explores the practicality of machine learning models for identifying IoT devices in security-sensitive contexts. It evaluates the models' performance across attributes such as mode of operation, transferability, and observability, addressing challenges in real-world deployments. 
+
+You can access the full paper on the [NDSS website](https://www.ndss-symposium.org/ndss-paper/your-paper-title/).
 
 ## Usage
 
