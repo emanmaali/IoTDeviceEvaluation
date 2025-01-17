@@ -19,7 +19,7 @@ dataset = pd.read_pickle(data_path)
 dataset['deviceName'] = dataset['deviceName'].astype('category')
 dataset['device_cat'] = dataset['deviceName'].cat.codes
 
-# Select Meid20 features and target variable
+# Select Okui22 features and target variable
 features = ['octetTotalCount', 
   'reverseOctetTotalCount', 
   'packetTotalCount_y', 
