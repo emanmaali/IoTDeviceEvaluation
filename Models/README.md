@@ -1,10 +1,10 @@
 # IoT Device Identification Models
 
-This directory contains the implementation of machine learning models used for evaluating IoT device identification. The models are categorised into three distinct folds: original code, Docker-based code, and rewritten code from the original paper.
+This directory contains the implementation of machine learning models used in our paper for evaluating IoT device identification. We categorised the models into three folds: original code, Docker-based code, and rewritten code from the original paper.
 
 ## Overview
 
-The models in this directory were designed to evaluate the practicality and effectiveness of machine learning techniques in identifying IoT devices across different network and operational conditions. These implementations facilitate reproducibility and further exploration.
+We designed the models in this directory to evaluate the practicality and performance of machine learning techniques in identifying IoT devices across different network and operational conditions. 
 
 ## Directory Structure
 
@@ -34,7 +34,7 @@ These scripts are adapted to run within a Docker environment to ensure ease of d
 - **[Fan22](https://github.com/AliceAndBobCandy/AutoIoT.git)**: [AutoIoT: Automatically Updated IoT Device Identification With Semi-Supervised Learning.](https://ieeexplore.ieee.org/abstract/document/9795895)
 
 ### 3. **Rewritten Code**
-The following implementations are rewritten versions of the original code. Note that you may need to adjust the code based on your testing case, the path to your training data, and ensure that features are used in the correct extracted format as outlined in the original paper.
+The following implementations are rewritten versions of the original code. Note that you may need to adjust the code based on your testing case and the path to your training data and ensure that features are used in the correct extracted format as outlined in the original paper.
 - **[Meid20](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Meid20.py)**: [A novel approach for detecting vulnerable IoT devices connected behind a home NAT.](https://www.sciencedirect.com/science/article/pii/S0167404820302418)
 - **[Okui22](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Okui22.py)**: [Identification of an IoT device model in the home domain using IPFIX records.](https://ieeexplore.ieee.org/abstract/document/9842469)
 - **[Siva18](https://github.com/emanmaali/IoTDeviceEvaluation/blob/98dd3f53f2aa3e215c6fe12d8ec0049debed75aa/Models/Siva18.py)**: [Classifying IoT Devices in Smart Environments Using Network Traffic Characteristics.](https://ieeexplore.ieee.org/abstract/document/8440758)
