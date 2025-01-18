@@ -1,7 +1,7 @@
 
 
 # Feature Extraction
-This directory contains scripts designed for automating feature extraction from network traffic data. The scripts support processing of `PCAP` files, extracting flow-level statistics using `YAF`, `Super Mediator`, and `tshark`, and converting the results into structured formats for analysis.
+This directory contains scripts designed to automate feature extraction from network traffic data. The scripts support processing of `PCAP` files, extracting flow-level statistics using `YAF`, `Super Mediator`, and `tshark`, and converting the results into structured formats for analysis.
 
 ## Directory Structure
 
@@ -22,7 +22,7 @@ FeatureExtraction/
 
 ## Requirements
 
-Ensure you have the following installed on your system:
+Ensure you have the following installed on your environment before running the scripts:
 - Python (>=3.7)
 - YAF (Yet Another Flowmeter)
 - Super Mediator
@@ -61,7 +61,7 @@ python extract_tshark_features.py pcap_list.txt
 pcap_list.txt should contain the paths of `PCAP` files, one per line.
 
 ### 3. Batch Processing
-The scripts are designed to automatically process all files within the specified directories. Ensure input files are organised accordingly.
+We seigned these scripts to process all files within the specified directories automatically. Ensure input files are organised accordingly.
 
 ## Customisation
 
@@ -69,10 +69,10 @@ The scripts are designed to automatically process all files within the specified
 To include additional fields during packet extraction, update the command variable in extract_tshark_features.py.
 
 ### Update Paths
-Modify paths in the scripts (extract_features.py and extract_tshark_features.py) to suit your data directory structure.
+Modify script paths (extract_features.py and extract_tshark_features.py) to suit your data directory structure.
 
 ### Password Handling
-For operations requiring elevated permissions (e.g., `sudo`), update the `sudo_password` variable in the script or configure your system for password-less execution of required commands.
+For operations requiring elevated permissions (e.g., `sudo`), update the `sudo_password` variable in the script or configure your system for passwordless execution of needed commands.
 
 
 ## Example Output
