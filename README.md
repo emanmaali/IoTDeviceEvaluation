@@ -2,7 +2,7 @@
 
 ## Background
 
-This project is based on the research paper:
+This project is based on our research paper:
 
 **Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications**
 
@@ -31,7 +31,7 @@ IoTDeviceEvaluation/
 ```
 
 ### Brief Description
-This research explores the practicality of machine learning models for identifying IoT devices in security-sensitive contexts. It evaluates the models' performance across attributes such as mode of operation, transferability, and observability, addressing challenges in real-world deployments. 
+Our paper explores the practicality of machine learning models for identifying IoT devices in security applications. Our paper evaluates the models' performance across attributes such as mode of operation, transferability, and observability, addressing challenges in real-world deployments. 
 
 You can access the full paper on the [NDSS website](https://www.ndss-symposium.org/ndss-paper/your-paper-title/).
 
