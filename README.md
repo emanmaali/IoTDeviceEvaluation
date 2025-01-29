@@ -6,8 +6,12 @@ This project is based on our research paper:
 
 **Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications**
 
-<!--
 **Citation:**
+
+Maali, E., Alrawi, O., & McCann, J. (2025). *Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications*. Accepted for publication at the Proceedings of the Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA.  
+URL: [NDSS Paper](https://www.ndss-symposium.org/ndss2025/accepted-papers/)
+
+<!--
 ```bibtex
 @inproceedings{Maali2025,
   author    = {Eman Maali, Omar Alrawi, and Julie McCann},
