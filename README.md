@@ -17,7 +17,7 @@ This project is based on our research paper:
   month     = {February},
   location  = {San Diego, CA, USA},
   publisher = {Internet Society},
-  url       = {https://www.ndss-symposium.org/ndss-paper/your-paper-title/}
+  url       = {[https://www.ndss-symposium.org/ndss-paper/evaluating-machine-learning-based-iot-device-identification-models-for-security-applications/]}
 }
 
 
