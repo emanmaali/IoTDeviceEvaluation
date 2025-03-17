@@ -19,7 +19,7 @@ This project is based on our research paper:
   publisher = {Internet Society},
   url       = {https://www.ndss-symposium.org/ndss-paper/evaluating-machine-learning-based-iot-device-identification-models-for-security-applications/}
 }
-
+```
 
 ## Project Structure
 ```
