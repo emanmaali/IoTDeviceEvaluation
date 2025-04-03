@@ -9,7 +9,7 @@ This project is based on our research paper:
 **Citation:**
 
 ```bibtex
-@inproceedings{Maali2025,
+@inproceedings{maalievaluating,
   author    = {Eman Maali, Omar Alrawi, and Julie McCann},
   title     = {Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications},
   booktitle = {Proceedings of the Network and Distributed System Security Symposium (NDSS)},
