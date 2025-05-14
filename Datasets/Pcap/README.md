@@ -1,4 +1,4 @@
-## Note on Dataset Access
+## Dataset Access
 
 Due to the large dataset size, it is not available for direct download through GitHub. Instead, we are using OneDrive to share the dataset.
 
