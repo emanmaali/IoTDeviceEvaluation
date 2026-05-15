@@ -25,7 +25,7 @@ It includes **packet capture (PCAP)** files representing raw network traffic dat
 
 Due to the large size of the datasets, they are not included in this repository.  
 Please follow this link to download the datasets:  
-[Download NDSS Datasets](https://imperiallondon-my.sharepoint.com/:f:/r/personal/em4618_ic_ac_uk/Documents/NDSSDatasets?csf=1&web=1&e=kg02Mh)
+[Download NDSS Datasets](https://www.dropbox.com/home/NDSS25_IoT_Eval)
 
 
 ## Contents
