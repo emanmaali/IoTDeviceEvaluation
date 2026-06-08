@@ -21,7 +21,7 @@ It includes **packet capture (PCAP)** files representing raw network traffic dat
 Due to the large size of the datasets, they are not included in this repository.  
 Please follow the link below to download the datasets:
 
-> ⚠️ **Note:** Open the link in a **private/incognito browser window** to ensure proper access.
+> ⚠️ **Note:** Please copy the link below and paste it in a **private/incognito browser window** to ensure proper access.
 👉 [Download NDSS Datasets](https://www.dropbox.com/scl/fo/ubb5x7i0d31t87jz9ozns/AHb5bo4P4WOyIImV9sjh96w?rlkey=54yyr03jx3yp14bjifxk7xfiz&st=1iu3oyh7&dl=0)
 
 The Dropbox folder is organised as follows:
